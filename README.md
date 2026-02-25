@@ -48,19 +48,6 @@ All files must be generated using the **Cardio_Extended_Series** algorithm withi
 
 ---
 
-## Biological Scope
-
-This pipeline is specifically designed for **calcium handling analysis in 3D cardiac spheroids**, including:
-
-- hiPSC-derived cardiomyocyte aggregates  
-- Engineered cardiac micro-tissues  
-- Disease modeling platforms  
-- Drug response experiments  
-
-Both **cell-level signals** and **whole-spheroid (whole-image) signals** are processed.
-
----
-
 ## Cleaned summary output
 
 The script generates a structured output folder containing:
