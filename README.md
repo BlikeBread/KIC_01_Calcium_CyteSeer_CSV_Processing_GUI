@@ -92,8 +92,9 @@ The output is ready for:
 This script is **Script 01** of a 3-step workflow:
 
 - **Script 01 (this repository)** – Raw CyteSeer CSV processing and structured dataset generation  
-- Script 02 – Dataset merging and filtering  
-- Script 03 – Statistical analysis and visualization  
+- Script 02a (this repository) – Single-batch MEANS merging and filtering
+- Script 02b – Cross-batch merging
+- Script 03 – Statistical analysis and visualization
 
 ---
 
@@ -105,6 +106,6 @@ Calcium transient measurements from 3D cardiac spheroids were acquired using the
 
 ## Authorship
 
-This script was developed by **Michele Buono, Talitha Spanjersberg, Nikki Scheen, and Nina van der Wilt** and can be used freely for research purposes, provided appropriate citation of the authors.
+This script was developed by **Michele Buono, Talitha Spanjersberg, Nikki Scheen, Nina van der Wilt** and can be used freely for research purposes, provided appropriate citation of the authors.
 
 The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from **OpenAI – ChatGPT 5.2**, which was used as a tool to improve code organization, documentation, and usability.
