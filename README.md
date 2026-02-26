@@ -1,6 +1,6 @@
 # KIC Spheroid Calcium Pipeline (Script 01/03)
 
-This repository contains an R script for preprocessing calcium transient measurements generated using the **CyteSeer Cytometer (Vala Sciences)** and analyzed with the onboard **Cardio_Extended_Series** algorithm.
+This repository contains an R script for preprocessing calcium transient measurements generated using the **CyteSeer Cytometer (Vala Sciences)** and analyzed with the onboard **Cardiac_Two-Channel_TimeSeries_Extended** algorithm.
 
 This script represents the first step (**01/03**) of a modular **KIC Spheroid Calcium analysis pipeline**.
 
