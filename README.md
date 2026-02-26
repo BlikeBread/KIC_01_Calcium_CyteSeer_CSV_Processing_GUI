@@ -44,7 +44,7 @@ Each dataset must contain:
 - `_Whole Image Measurements_DataTable_CStats.csv`  
 - `_Whole-Image Peak Measurements_DataTable.csv`  
 
-All files must be generated using the **Cardio_Extended_Series** algorithm within CyteSeer.
+All files must be generated using the **Cardiac_Two-Channel_TimeSeries_Extended** algorithm within CyteSeer.
 
 ---
 
@@ -92,7 +92,7 @@ The output is ready for:
 This script is **Script 01** of a 3-step workflow:
 
 - **Script 01 (this repository)** – Raw CyteSeer CSV processing and structured dataset generation  
-- Script 02a (this repository) – Single-batch MEANS merging and filtering
+- Script 02a – Single-batch MEANS merging and filtering
 - Script 02b – Cross-batch merging
 - Script 03 – Statistical analysis and visualization
 
@@ -100,7 +100,7 @@ This script is **Script 01** of a 3-step workflow:
 
 ## Methods Description
 
-Calcium transient measurements from 3D cardiac spheroids were acquired using the **CyteSeer Cytometer (Vala Sciences)** and analyzed with the **Cardio_Extended_Series** algorithm. Raw CSV exports were processed using a custom R-based GUI pipeline. Waveform strings were parsed to reconstruct time series data, and additional upstroke and downstroke timing metrics were computed. The resulting structured dataset was exported for downstream statistical analysis and visualization.
+Calcium transient measurements from 3D cardiac spheroids were acquired using the **CyteSeer Cytometer (Vala Sciences)** and analyzed with the **Cardiac_Two-Channel_TimeSeries_Extended** algorithm. Raw CSV exports were processed using a custom R-based GUI pipeline. Waveform strings were parsed to reconstruct time series data, and additional upstroke and downstroke timing metrics were computed. The resulting structured dataset was exported for downstream statistical analysis and visualization.
 
 ---
 
