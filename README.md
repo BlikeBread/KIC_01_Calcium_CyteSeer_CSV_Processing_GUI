@@ -108,6 +108,6 @@ Calcium transient measurements from 3D cardiac spheroids were acquired using the
 
 This script was developed by **Michele Buono, Talitha Spanjersberg, Nikki Scheen, Nina van der Wilt** and can be used freely for research purposes, provided appropriate citation of the authors.
 
-**Buono, M. F., Spanjersberg, T., Nikki, S., & van der Wilt, C. N. (2026). KIC Spheroid Calcium Pipeline (Script 01/03) – CyteSeer Preprocessing & Waveform Reconstruction (v.1.0). Zenodo. https://doi.org/10.5281/zenodo.18798891**
+**Buono, M. F., Spanjersberg, T., Scheen, N., & van der Wilt, C. N. (2026). KIC Spheroid Calcium Pipeline (Script 01/03) – CyteSeer Preprocessing & Waveform Reconstruction (v.1.0). Zenodo. https://doi.org/10.5281/zenodo.18798891**
 
 The overall workflow, structure, and clarity of the pipeline were iteratively refined with assistance from **OpenAI – ChatGPT 5.2**, which was used as a tool to improve code organization, documentation, and usability.
